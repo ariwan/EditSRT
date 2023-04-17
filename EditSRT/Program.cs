@@ -6,7 +6,7 @@
         var fileContent = File.ReadAllLines(srtPath); // Hiermee readen we alle lines in een string[]
         if (fileContent.Length <= 0) // indien de lengte van string[] <= 0 is, dan zeggen we nevermind bruh. 
             return;
-        string test = "hoi";
+        
 
         var segments = new List<string[]>(); // This is the LIST that contains string[]. It must be a list, as each string[] does not have to be the same size. 
         var tempArray = new List<string>(); // This list is to to create individual segments. 
