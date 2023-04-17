@@ -1,0 +1,15 @@
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\bin\Debug\net6.0\EditSRT.exe
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\bin\Debug\net6.0\EditSRT.deps.json
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\bin\Debug\net6.0\EditSRT.runtimeconfig.json
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\bin\Debug\net6.0\EditSRT.dll
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\bin\Debug\net6.0\EditSRT.pdb
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.csproj.AssemblyReference.cache
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.AssemblyInfoInputs.cache
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.AssemblyInfo.cs
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.csproj.CoreCompileInputs.cache
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.dll
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\refint\EditSRT.dll
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.pdb
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\EditSRT.genruntimeconfig.cache
+C:\Users\Arivan\source\repos\EditSRT\EditSRT\obj\Debug\net6.0\ref\EditSRT.dll
