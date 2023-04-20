@@ -1,2 +1,5 @@
 *.suo
 *.vsidx
+*.v2
+*.dll
+*.FileListAbsolute.txt

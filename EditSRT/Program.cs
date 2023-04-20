@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        var srtPath = "C:\\Users\\Arivan\\Downloads\\SUBDL.com__the.lord.of.the.rings.the.return.of.the.king58648\\deze.srt";
+        var srtPath = "E:\\Video\\Lord of the Rings\\The Lord of the Rings The Two Towers\\The.Lord.of.the.Rings.The.Two.Towers.2002.ExD.1080p.BrRip.x264.YIFY.srt";
         var fileContent = File.ReadAllLines(srtPath); // Hiermee readen we alle lines in een string[]
         if (fileContent.Length <= 0) // indien de lengte van string[] <= 0 is, dan zeggen we nevermind bruh. 
             return;
@@ -11,17 +11,30 @@
         var segments = new List<string[]>(); // This is the LIST that contains string[]. It must be a list, as each string[] does not have to be the same size. 
         var tempArray = new List<string>(); // This list is to to create individual segments. 
 
+        List<string> fileContentList = fileContent.ToList<string>();
 
-        foreach(var entree in fileContent)
+        for (int i = 0; i < fileContentList.Count-1; i++)
         {
-            if (entree == "")
+            if (fileContentList[i] == "" && fileContentList[i + 1] == "")
+            {
+                fileContentList.RemoveAt(i);
+            }
+        }
+
+        fileContent = fileContentList.ToArray();    
+
+ 
+
+            for (int i = 0; i < fileContent.Length; i++)
+        {
+            if (fileContent[i] == "")
             {
                 segments.Add(tempArray.ToArray());
                 tempArray.Clear();
             }
             else
             {
-                tempArray.Add(entree);
+                tempArray.Add(fileContent[i]);
             }
 
         }
