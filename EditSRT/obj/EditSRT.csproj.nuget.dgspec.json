@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arivan\\Mijn leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj": {}
+    "C:\\Users\\Arivan\\Mijn_leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arivan\\Mijn leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj": {
+    "C:\\Users\\Arivan\\Mijn_leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arivan\\Mijn leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj",
+        "projectUniqueName": "C:\\Users\\Arivan\\Mijn_leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj",
         "projectName": "EditSRT",
-        "projectPath": "C:\\Users\\Arivan\\Mijn leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj",
+        "projectPath": "C:\\Users\\Arivan\\Mijn_leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\EditSRT.csproj",
         "packagesPath": "C:\\Users\\Arivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arivan\\Mijn leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\obj\\",
+        "outputPath": "C:\\Users\\Arivan\\Mijn_leef\\Pojecten\\C-sharp\\EditSRT\\EditSRT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
